@@ -5,16 +5,13 @@
   Estudante de programação, aprendendo e construindo projetos por aí 🚀
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitas%20ao%20perfil&color=3ecf8e&style=flat" alt="Visitas ao perfil"/>
-</p>
 
 ---
 
 ### 💬 Sobre mim
 
 - 🔭 Atualmente estudando **[Técnico Em Informatica no Instituto Federal(IFSP) Campus Itapetininga]**
-- 🌱 Aprendendo **[Java com Spring boot, Dispositivos Movéis, html,css,js, Banco de Dados]**
+- 🌱 Aprendendo **[Java com Spring boot, Dispositivos Movéis, html,css,js, Banco de Dados, etc...]**
 
 ---
 
@@ -40,6 +37,10 @@
 #### 🤖 [Evolução da Inteligência Artificial]
 Site interativo sobre a evolução da IA, com linha do tempo navegável e quiz de conhecimento. Feito para feira de ciências.
 `HTML` `CSS` `JavaScript`
+
+### [Loja Online de Bonés]
+uma loja online de vendar onde o foco sao bonés, Feito para a Materia de Desenvolvimento Web 2 e Projeto Integrador
+'Java com Spring boot/thymeleaf' 'banco de dados Mysql' 'html' 'css' 'javascript'
 
 
 ---
