@@ -29,22 +29,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
 
-
----
-
-### 📌 Projetos em destaque
-
-#### 🤖 [Evolução da Inteligência Artificial]
-Site interativo sobre a evolução da IA, com linha do tempo navegável e quiz de conhecimento. Feito para feira de ciências.
-
-`HTML` `CSS` `JavaScript`
-
-### [Loja Online de Bonés]
-uma loja online de vendar onde o foco sao bonés, Feito para a Materia de Desenvolvimento Web 2 e Projeto Integrador
-
-`Java com Spring boot/thymeleaf` `banco de dados Mysql` `html` `css` `javascript`
-
-
 ---
 
 <p align="center"><i>Obrigado(a) pela visita! ⭐ deixe uma estrela nos projetos que você curtir.</i></p>
