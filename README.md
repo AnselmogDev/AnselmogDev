@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" >
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
 </p>
 
 > 💡 Dica: apague os badges que não se aplicam a você e adicione outros em [shields.io](https://shields.io) ou copie exemplos em [github.com/Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges).
