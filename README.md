@@ -30,5 +30,10 @@
 </p>
 
 ---
+Informações de Contato
+Linkedin: www.linkedin.com/in/gabriel-a-0a8ab3365
+Email : gabrielanselmodemoraes@outlook.com
+
+---
 
 <p align="center"><i>Obrigado(a) pela visita! ⭐ deixe uma estrela nos projetos que você curtir.</i></p>
