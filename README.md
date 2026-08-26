@@ -31,6 +31,7 @@
 
 ---
 Informações de Contato
+---
 Linkedin: www.linkedin.com/in/gabriel-a-0a8ab3365
 ---
 Email : gabrielanselmodemoraes@outlook.com
